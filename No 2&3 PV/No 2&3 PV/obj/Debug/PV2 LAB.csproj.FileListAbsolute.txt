@@ -1,0 +1,10 @@
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\bin\Debug\PV2 LAB.exe.config
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\bin\Debug\PV2 LAB.exe
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\bin\Debug\PV2 LAB.pdb
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\obj\Debug\PV2 LAB.csprojResolveAssemblyReference.cache
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\obj\Debug\PV2_LAB.MainForm.resources
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\obj\Debug\PV2 LAB.csproj.GenerateResource.Cache
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\obj\Debug\PV2 LAB.exe
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\obj\Debug\PV2 LAB.pdb
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\obj\Debug\PV2_LAB.Form1.resources
+C:\Users\dk\Documents\SharpDevelop Projects\PV2 LAB\PV2 LAB\obj\Debug\PV2_LAB.Form2.resources
